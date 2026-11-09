@@ -1,0 +1,27 @@
+{
+  "notice": "INVENTED EXAMPLE, NOT DATA FROM THE STUDY. A fictional greenhouse irrigation controller, written by hand only to try the pipeline.",
+  "requirements": {
+    "Irrigation Control": [
+      "The controller shall open a zone valve when the soil moisture of that zone falls below 30 percent.",
+      "The controller shall close a zone valve within 5 seconds of a stop command.",
+      "The controller shall limit each irrigation cycle to at most 20 minutes."
+    ],
+    "Monitoring and Alarms": [
+      "The controller shall read every soil moisture sensor at least once per minute.",
+      "The controller shall raise an alarm when a sensor stops reporting for more than 5 minutes."
+    ]
+  },
+  "source": {
+    "doc": "invented_example",
+    "strategy": "hand_written",
+    "model": "none",
+    "run": 0,
+    "file": "greenhouse_requirements.json",
+    "n_categories": 2,
+    "n_requirements": 5,
+    "cost_usd": 0.0,
+    "criterion": "invented for this package; not produced by the extraction stage",
+    "n_candidates": 0
+  },
+  "sha256": "2bd61dbf4f5fcbfe1caa0b95d958403492cfa0f8052dbc850072f4397ed133ca"
+}

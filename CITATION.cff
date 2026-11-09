@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+type: software
+title: "Req2SysMLv2: code for generating and repairing SysML v2 models from requirements with LLMs"
+version: 1.0.0
+license: Apache-2.0
+authors:
+  - family-names: Olivert-Iserte
+    given-names: Jose Francisco
+    email: jolivert@inf.uc3m.es
+    affiliation: "Department of Computer Science and Engineering, Universidad Carlos III de Madrid, Spain"
+    orcid: "https://orcid.org/0009-0000-9031-5644"
+  - family-names: Cibrián
+    given-names: Eduardo
+    affiliation: "Department of Computer Science and Engineering, Universidad Carlos III de Madrid, Spain"
+    orcid: "https://orcid.org/0009-0002-2441-1253"
+  - family-names: Mendieta
+    given-names: Roy
+    affiliation: "The Reuse Company, Spain"
+  - family-names: Álvarez-Rodríguez
+    given-names: José María
+    affiliation: "Department of Computer Science and Engineering, Universidad Carlos III de Madrid, Spain"
+    orcid: "https://orcid.org/0000-0003-1668-6054"
+keywords:
+  - Model-Based Systems Engineering
+  - SysML v2
+  - Large Language Models
+  - Automated Model Repair
+  - LLM-as-a-Judge
+  - Requirements Engineering

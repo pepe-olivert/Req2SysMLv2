@@ -1,0 +1,38 @@
+{
+  "title": "Req2SysMLv2: code for generating and repairing SysML v2 models from requirements with LLMs",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "<p>Code of Req2SysMLv2, a generate-validate-repair framework that turns structured natural-language requirements into SysML v2 models, and of the experiments and analyses of the paper that evaluates it. Includes the prompts, knowledge bases, grammar validator, evaluation scripts and tests.</p><p>This archive contains code only. The source documents, input requirements, generated models, error banks, judgments and annotation sheets are not included; they are available on request (see README.md).</p><p>The code is under Apache-2.0, except core/validate/SysMLv2/, which is under LGPL-3.0 (see THIRD_PARTY.md).</p>",
+  "license": "Apache-2.0",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Olivert-Iserte, Jose Francisco",
+      "affiliation": "Department of Computer Science and Engineering, Universidad Carlos III de Madrid, Spain",
+      "orcid": "0009-0000-9031-5644"
+    },
+    {
+      "name": "Cibrián, Eduardo",
+      "affiliation": "Department of Computer Science and Engineering, Universidad Carlos III de Madrid, Spain",
+      "orcid": "0009-0002-2441-1253"
+    },
+    {
+      "name": "Mendieta, Roy",
+      "affiliation": "The Reuse Company, Spain"
+    },
+    {
+      "name": "Álvarez-Rodríguez, José María",
+      "affiliation": "Department of Computer Science and Engineering, Universidad Carlos III de Madrid, Spain",
+      "orcid": "0000-0003-1668-6054"
+    }
+  ],
+  "keywords": [
+    "Model-Based Systems Engineering",
+    "SysML v2",
+    "Large Language Models",
+    "Automated Model Repair",
+    "LLM-as-a-Judge",
+    "Requirements Engineering"
+  ],
+  "notes": "Contact: jolivert@inf.uc3m.es"
+}

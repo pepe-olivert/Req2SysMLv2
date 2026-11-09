@@ -1,0 +1,144 @@
+{
+  "generation": {
+    "Irrigation Control": "30a1240d42c4b5778588d2c7b4cdf5ded82331dfa01b4558cb45a3bdedd41838",
+    "Monitoring and Alarms": "366953ecea45c64922cbbf5b840d4bbc878f89620678a3639e214327a21b5156"
+  },
+  "note": "Digests of the requests built from invented inputs with the frozen code.",
+  "samples": [
+    {
+      "C2": {
+        "calls": 1,
+        "sha256": "d018fd50b689a8261d43555f95d25ed39fc54b01b3a0757e29b7a1da1f8b3013"
+      },
+      "C3": {
+        "calls": 1,
+        "sha256": "14aa051788c4a131cce40184e4986f1c4f9df754f45c497b6dcafaedaabbd67c"
+      },
+      "C4": {
+        "calls": 1,
+        "sha256": "190cb7b61cdc54eed42963f04632ed1380ecba2256c3a6eaeb181df6f11b5b32"
+      },
+      "category": "constraint expression"
+    },
+    {
+      "C2": {
+        "calls": 2,
+        "sha256": "43acb947d09bc80b448d14a1a88497531ec61f493820107eb18e4c25f694cf6c"
+      },
+      "C3": {
+        "calls": 2,
+        "sha256": "9ce65f2e0957af762a896232f4841cc9393ad03de771a9eae18bd2a7ca4d08ee"
+      },
+      "C4": {
+        "calls": 2,
+        "sha256": "e7e43626ee56e0439d3a9b8b586afb1dad89230c70762bb64ff6d62ad993a347"
+      },
+      "category": "declaration form"
+    },
+    {
+      "C2": {
+        "calls": 2,
+        "sha256": "0dce273d78cb28f70ac416e406f7853061130c652bd78beea825299c7e05afa5"
+      },
+      "C3": {
+        "calls": 2,
+        "sha256": "53c963dfe3f5279a6de0eb1831c65a5d8ce332f512f60d5b34b2b2d230861a78"
+      },
+      "C4": {
+        "calls": 2,
+        "sha256": "db42ac36a4390a02d7a288fe334396d7389c1511e4163cfe2880341b98caab07"
+      },
+      "category": "delimiters"
+    },
+    {
+      "C2": {
+        "calls": 1,
+        "sha256": "9fac7a7aa5473b359c3e2756b2c580e3e37eafbc68f5fa26623174763ae2d160"
+      },
+      "C3": {
+        "calls": 1,
+        "sha256": "451fdf654a699d6f97780f37ef6bebe3d9214484894f4f2427c5860a0f2742d5"
+      },
+      "C4": {
+        "calls": 1,
+        "sha256": "b29fc8720b681996e6891ee96ac1422c4851dd0bc052179ab1b7beac2e610385"
+      },
+      "category": "doc comment"
+    },
+    {
+      "C2": {
+        "calls": 1,
+        "sha256": "1f2b6613eb4f97454032f46752464fea5cac823b01b5ce63640f5bbf24ef5d81"
+      },
+      "C3": {
+        "calls": 1,
+        "sha256": "403a70a37b0cfa343a7ab8a6c7e5bf27bfab637fdd0a5f938df91627d5f0b98a"
+      },
+      "C4": {
+        "calls": 1,
+        "sha256": "30dddb77a42406cf53248e56c3946d7deb9b9215242fc9350e79097f7c969daa"
+      },
+      "category": "lexer"
+    },
+    {
+      "C2": {
+        "calls": 1,
+        "sha256": "75784932b8a900b5044d7c869c122726c3869679dd83c931200b01c623ab3e7d"
+      },
+      "C3": {
+        "calls": 1,
+        "sha256": "5f56e3c85c68639bce0fd32779b300bb9b655a0f5df6f4911772629d03581583"
+      },
+      "C4": {
+        "calls": 1,
+        "sha256": "3ed92dee080191f102c34479069e0df9a5a24ec1e9f938c41872335dd024fa41"
+      },
+      "category": "literals"
+    },
+    {
+      "C2": {
+        "calls": 1,
+        "sha256": "8b234177bcfa4debaf233c933348c8bd7ebe378d129e628205e78a5eec1db7d5"
+      },
+      "C3": {
+        "calls": 1,
+        "sha256": "8699bbdc4c401d55c8b073339580710bc8947cf16e974846216b6f71ecc16d56"
+      },
+      "C4": {
+        "calls": 1,
+        "sha256": "a3f58d9ea0a05ae94c3881839fcbad2ae5fe43e64b3e210786a4490218a2684d"
+      },
+      "category": "qualification"
+    },
+    {
+      "C2": {
+        "calls": 1,
+        "sha256": "8af3de6b153202140a981a201989cc44927b7ce195503f138ef7c60821422efe"
+      },
+      "C3": {
+        "calls": 1,
+        "sha256": "fc91cbe556ca3b99636ab993399edb2bc13b1cdf7aa6969c83331259fbe2b7d4"
+      },
+      "C4": {
+        "calls": 1,
+        "sha256": "9458fe92916e8f9a08c9f224c8699e9e5fed6eb11a463fa2b1f1dc76a2a99a8a"
+      },
+      "category": "no viable alternative"
+    },
+    {
+      "C2": {
+        "calls": 1,
+        "sha256": "328348426b8e538972e7f479587bb94a3e0b1577b0f0edd7e1f3cdd95616df89"
+      },
+      "C3": {
+        "calls": 1,
+        "sha256": "ec6cfccf285b5333f6c132493e44f031d9f2a09d9f7f03e07c3c5054acfee8f4"
+      },
+      "C4": {
+        "calls": 1,
+        "sha256": "3635805a09c56850b9501a366976c05f23b539d83f000fa9636e4ab1c80c057d"
+      },
+      "category": "unknown"
+    }
+  ]
+}

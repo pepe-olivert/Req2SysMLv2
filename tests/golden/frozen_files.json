@@ -1,0 +1,20 @@
+{
+  "files": {
+    "core/agents/agent2/c0_minimal_prompt.md": "c1530203ae1995e4da4b85123ef6b0e03adfb87c7d9db2c07c8151168aa9e388",
+    "core/agents/agent2/error_router.py": "d06f88a4903fba6eec286c95585b62003c4ee501b8c86a01b680979e1dc958c5",
+    "core/agents/agent2/fix_all_prompt.md": "c33a0e00a2fe733acc885b7d4209c9dcb38756edf5eba581d139b6b2b7cf4cb1",
+    "core/agents/agent2/fix_pilot_prompt.md": "18548e81fab3304e6c0b2ec28bb74f4e38781ba5144b36780753250deab7484b",
+    "core/agents/agent2/knowledge/ALT_NO_VIABLE.md": "d69caa20d222cba2c31bb623764b45347d54b94f94576ddd754a6c8d512e76cc",
+    "core/agents/agent2/knowledge/CONSTRAINT_EXPR.md": "a07067112a555bfdbd47f3487f177366abe57681166a763def5502861111af2e",
+    "core/agents/agent2/knowledge/DECLARATION_FORM.md": "5b50d79480624ed1dbff4d02209a319886c3dfe8040491d4f196e9aca4775e35",
+    "core/agents/agent2/knowledge/DELIMITERS.md": "952df1080b55c80041a3528c7ef80c0904faa5cfdc3217ce6f0066b67767366e",
+    "core/agents/agent2/knowledge/DOC_COMMENT.md": "ae709730de5e9198d0aabc97208470bfe96a9aa7acddc0c2515660b1b47fef98",
+    "core/agents/agent2/knowledge/LEXER.md": "37166ed2ff4dbe00beeeb024a0da7796cc729060269608da73223be3f36fdceb",
+    "core/agents/agent2/knowledge/LITERALS_STRINGS.md": "40c275c807d50a861a3ad13ee1d5f53752b0f3d808379dac5b18ca00c27e0e1b",
+    "core/agents/agent2/knowledge/QUALIFICATION.md": "198f814f242779a37837384da0dce0398f40361a69f4dc487062197e84e5037b",
+    "core/agents/agent2/knowledge/UNKNOWN.md": "bcce08d5dd51c80834d408caf7106874a385ebd8aeb158c0d98da8ade93a447f",
+    "core/agents/agent2/prompts.py": "8a86e98606a73bd8e7f6281a7ca78c80b436ecea8bee0a421a07efc651028884",
+    "core/agents/agent2/v1_generation_prompt.md": "203a04b28ab66b68da6aac23fc3475d679ed7c4f63b49e72facd76d11d2aaeee"
+  },
+  "note": "SHA-256 of the frozen generation prompt, repair prompt, router and knowledge bases (LF line endings)."
+}
